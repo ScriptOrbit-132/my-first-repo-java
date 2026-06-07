@@ -1,1 +1,1 @@
-Hi this my first java repo
+Hi, this is my first Java repository.
